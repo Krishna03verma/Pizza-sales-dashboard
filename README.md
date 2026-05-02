@@ -1,28 +1,30 @@
-# 🍕 Pizza Sales Analytics Dashboard (Advanced Excel Project)
+# 🍕Pizza Sales Analytics Dashboard
 
-## 🧠 Business Problem
+##  Business Problem
 
 Food delivery businesses need to optimize **order management, delivery time, and restaurant performance** to maintain customer satisfaction and profitability.
 This project analyzes pizza sales data to uncover **operational inefficiencies, peak demand patterns, and delivery delays**.
 
 ---
 
-📌 Table of Contents
-Overview
-Business Problem
-Project Objective
-Key KPIs
-Dashboard Highlights
-Dashboard Preview
-Key Insights
-Tools & Techniques
-Data Preparation
-Project Structure
-How to Use
-Business Impact
-Future Enhancements
-About Me
-## 🎯 Project Objective
+## 📌Table of Contents
+
+- [Overview](#overview)
+- [Business Problem](#business-problem)
+- [Project Objective](#project-objective)
+- [Key KPIs](#key-kpis)
+- [Dashboard Highlights](#dashboard-highlights)
+- [Dashboard Preview](#dashboard-preview)
+- [Key Insights](#key-insights)
+- [Tools & Techniques](#tools--techniques)
+- [Data Preparation](#data-preparation)
+- [Project Structure](#project-structure)
+- [How to Use](#how-to-use)
+- [Business Impact](#business-impact)
+- [Future Enhancements](#future-enhancements)
+
+------
+##  Project Objective
 
 To develop an interactive analytics dashboard that:
 
@@ -33,7 +35,7 @@ To develop an interactive analytics dashboard that:
 
 ---
 
-## 📌 Key KPIs
+## Key KPIs
 
 * **Total Orders:** 1004
 * **Average Delivery Time:** 29 minutes
@@ -44,18 +46,18 @@ To develop an interactive analytics dashboard that:
 
 ---
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 
-* **📅 Monthly Order Trends**
+* ** Monthly Order Trends**
   Tracks fluctuations in demand across different months
 
-* **⏰ Hourly Order Analysis**
+* **Hourly Order Analysis**
   Identifies peak ordering hours (especially evening slots)
 
-* **🚦 Traffic vs Delivery Time**
+* ** Traffic vs Delivery Time**
   Analyzes how traffic levels (Low, Medium, High) impact delivery duration
 
-* **🏪 Restaurant Performance Comparison**
+* **Restaurant Performance Comparison**
   Evaluates average delivery time across:
 
   * Domino’s
@@ -67,7 +69,7 @@ To develop an interactive analytics dashboard that:
 * **⏱ Order Delay Analysis**
   Highlights delays using distribution metrics and counts
 
-* **🍕 Pizza Category & Type Analysis**
+* **Pizza Category & Type Analysis**
   Breaks down orders by:
 
   * BBQ Chicken
@@ -78,31 +80,31 @@ To develop an interactive analytics dashboard that:
   * Gluten-Free
   * Stuffed Crust
 
-* **🎛 Interactive Filters**
+* **Interactive Filters**
 
   * Order Month
   * Pizza Type
 
 ---
 
-📷 Dashboard Preview
-![Uploading Screenshot 2026-05-02 160207.png…]()
+ Dashboard Preview
+<img width="1869" height="650" alt="Screenshot 2026-05-02 160207" src="https://github.com/user-attachments/assets/58564be4-85f6-40c6-b2d2-124944d235e8" />
 
 ------------
 
 
 
-## 🔍 Key Insights
+## Key Insights
 
-* 📈 Peak demand observed during **evening hours (18–21)**
-* 🚦 Delivery time increases significantly under **high traffic conditions**
-* 🏪 Certain restaurants consistently show **higher delay times**
-* 🍕 A few pizza categories dominate total sales volume
-* 📊 Monthly variation indicates **seasonal demand patterns**
+*  Peak demand observed during **evening hours (18–21)**
+*  Delivery time increases significantly under **high traffic conditions**
+*  Certain restaurants consistently show **higher delay times**
+*  A few pizza categories dominate total sales volume
+* Monthly variation indicates **seasonal demand patterns**
 
 ---
 
-## 🛠️ Tools & Techniques
+##  Tools & Techniques
 
 * **Microsoft Excel**
 
@@ -118,7 +120,7 @@ To develop an interactive analytics dashboard that:
 
 ---
 
-## 🔄 Data Preparation
+##  Data Preparation
 
 * Cleaned raw dataset (2024–25 sales data)
 * Handled missing and inconsistent values
@@ -131,7 +133,7 @@ To develop an interactive analytics dashboard that:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 * `Enhanced_pizza_sell_data.xlsx` → Dataset
 * `Pizza Sales Dashboard.xlsx` → Dashboard file
@@ -139,7 +141,7 @@ To develop an interactive analytics dashboard that:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Open the Excel dashboard file
 2. Use slicers to filter by month or pizza category
@@ -148,18 +150,18 @@ To develop an interactive analytics dashboard that:
 
 ---
 
-## 📈 Business Impact
+##  Business Impact
 
 This dashboard enables:
 
-* ⚡ Faster identification of **delivery bottlenecks**
-* 📉 Reduction in **order delays**
-* 📊 Better planning for **peak-hour demand**
-* 🏪 Performance evaluation across restaurants
+* Faster identification of **delivery bottlenecks**
+*  Reduction in **order delays**
+*  Better planning for **peak-hour demand**
+*  Performance evaluation across restaurants
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Predict delivery delays using Machine Learning
 * Integrate real-time order tracking
