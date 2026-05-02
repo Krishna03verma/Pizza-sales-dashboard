@@ -48,13 +48,13 @@ To develop an interactive analytics dashboard that:
 
 ##  Dashboard Highlights
 
-* ** Monthly Order Trends**
+* **Monthly Order Trends**
   Tracks fluctuations in demand across different months
 
 * **Hourly Order Analysis**
   Identifies peak ordering hours (especially evening slots)
 
-* ** Traffic vs Delivery Time**
+* **Traffic vs Delivery Time**
   Analyzes how traffic levels (Low, Medium, High) impact delivery duration
 
 * **Restaurant Performance Comparison**
